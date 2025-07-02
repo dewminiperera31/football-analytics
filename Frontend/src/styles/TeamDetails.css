@@ -1,0 +1,17 @@
+.team-details-container {
+  padding: 40px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.team-details-container h1 {
+  color: #4b0082;
+  margin-bottom: 20px;
+}
+
+.team-section {
+  background: #f2f2f2;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}

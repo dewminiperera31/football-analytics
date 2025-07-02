@@ -1,0 +1,17 @@
+.player-details-container {
+  padding: 40px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.insight-card {
+  background: #f1f5f9;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+}
+
+.insight-card h2 {
+  color: #1e293b;
+}
