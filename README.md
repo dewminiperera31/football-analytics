@@ -35,8 +35,8 @@ A full-stack football analytics web app offering real-time match data, player in
 ```plaintext
 football-analytics/
 ├── frontend/        # React + Tailwind
-├── backend/         # Python API (Flask or FastAPI)
+├── backend/         # Python API (Flask)
 ├── notebooks/       # Jupyter notebooks for model training
 ├── models/          # Trained ML models (e.g., xg_model.pkl)
-├── data/            # Datasets (CSV, JSON, etc.)
+├── data/            # Datasets (CSV, JSON, MongoDB)
 └── README.md
